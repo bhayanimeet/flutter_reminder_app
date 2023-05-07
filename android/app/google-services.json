@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453268031179",
+    "project_id": "reminder-app-62641",
+    "storage_bucket": "reminder-app-62641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453268031179:android:ce11502660bc1972083d4e",
+        "android_client_info": {
+          "package_name": "com.meet50.flutter_reminder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453268031179-qnakh4h0oodkfs9rg5rdgi60o5klp8oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meet50.flutter_reminder_app",
+            "certificate_hash": "d8d2434a9cb266fb47f5bfc315933d3cef289637"
+          }
+        },
+        {
+          "client_id": "453268031179-405g9f5fu0j8rvkm0rue6ap5mrosu42e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhSgbylAQ1EEGGKPRWBmABGqkdRyCuUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453268031179-405g9f5fu0j8rvkm0rue6ap5mrosu42e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
