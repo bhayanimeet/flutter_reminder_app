@@ -4,7 +4,7 @@
 
 <h3 align="left">🗒 About</h3>
 
-- This is a simple Reminder app for your todos.
+- This is a simple Reminder app for your todos. This application push notification when task time in near to complete.
 
 
 <h3 align="left">⚙️ Features</h3>
@@ -20,16 +20,16 @@
 - Firebase Authentication
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 
 - Flutter
 - Dart
 - Firebase
 - Sqlite Database
 
+<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
-<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40">
 
 
@@ -57,6 +57,11 @@ https://user-images.githubusercontent.com/121868259/236786406-af70666e-6682-4a72
 <img src="https://user-images.githubusercontent.com/121868259/236747273-4bd6ce3c-5e15-4061-ba68-cfa1d4368c89.jpeg" width="220px">
 <img src="https://user-images.githubusercontent.com/121868259/236747289-1fbf4016-9086-4a6a-a1db-e2b936502e3f.jpeg" width="220px">
 
+
+<h3 align="left">📝 License</h3>
+
+- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
+- This project is [MIT](LICENSE.md) Licensed.
 
 
 <h1 align="center">Made with ❤️ in India.</h1>
